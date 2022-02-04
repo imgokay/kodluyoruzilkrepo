@@ -5,14 +5,14 @@ Bu dosya Kodluyoruz Eğitimi kapsamında yaptığım ilk repodur. Ödevin içeri
 ![Ekran görüntüsü 2022-02-04 164648](https://user-images.githubusercontent.com/35762337/152541620-e384a52c-7fb3-4b91-a4d8-2d80efaf7778.png)
 
 
-## Installation
+## Kurulum
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ``` 
 https://github.com/imgokay/kodluyoruzilkrepo.git
 ```  
 
-## Usage
+## Kullanım
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -22,6 +22,6 @@ cd kodluyoruzilkrepo
 code .
 
 ```  
-## License
+## Lisans
 
 [MIT](https://choosealicense.com/licenses/mit/)
