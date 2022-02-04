@@ -1,17 +1,27 @@
-# README.md
-# Patika-Frontend-Web-Development
+# Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz](https://kodluyoruz.org) & [Patika](https://patika.dev) tarafından düzenlenen [Front-End Web Development](https://app.patika.dev/egitimler/frontend-web-development-patikasi) eğitiminin bölüm sonu çalışmalarını ve ödev olarak verilen  mini projelerini içermektedir.
+Bu repo Kodluyoruz Eğitimi kapsamında açtığım ilk repodur. İçerisinde bir adet *README* dosyası, bir adet de *index.html* barındırıyor.
+Dil, beceri ve eğitim gibi bilgilerimin de içinde bulunduğu index.html'de **CV** niteliğinde bir sayfa hazırlamayı tercih ettim.
 
-## Eğitimin içeriği:
-* [Git-Eğitimi](https://github.com/haticekiziltas/kodluyoruzilkrepo/tree/main/000-git)
-* [HTML](https://github.com/haticekiziltas/kodluyoruzilkrepo/tree/main/001-html-category)
-* [CSS](https://github.com/haticekiziltas/kodluyoruzilkrepo/tree/main/002-css)
-* [Bootstrap](https://github.com/haticekiziltas/kodluyoruzilkrepo/tree/main/003-bootstrap)
-* [JavaScript](https://github.com/haticekiziltas/kodluyoruzilkrepo/tree/main/004-javaScript)
-* [ReactJs](https://github.com/haticekiziltas/kodluyoruzilkrepo/tree/main/005-react)
+![createRepo](https://user-images.githubusercontent.com/39413875/120068073-81755380-c087-11eb-9c71-3d88ea515aa7.PNG)
 
-## Eğitim Notları & Eğitmenler :
-- [Hakan Yalçınkaya(Git/HTML/CSS/BOOTRAP)](https://github.com/hakanyalcinkaya/kodluyoruz-frontend-101-egitimi)
-- [Mehmet Seven(REACT)](https://github.com/meseven)
 
+## Installation
+
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+``` 
+https://github.com/imgokay/kodluyoruzilkrepo.git
+```  
+
+## Usage
+
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+```  
+cd kodluyoruzilkrepo
+code .
+
+```  ## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
