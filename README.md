@@ -1,9 +1,8 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo Kodluyoruz Eğitimi kapsamında açtığım ilk repodur. İçerisinde bir adet *README* dosyası, bir adet de *index.html* barındırıyor.
-Dil, beceri ve eğitim gibi bilgilerimin de içinde bulunduğu index.html'de **CV** niteliğinde bir sayfa hazırlamayı tercih ettim.
+Bu dosya Kodluyoruz Eğitimi kapsamında yaptığım ilk repodur. Ödevin içerisinde bir adet *README* dosyası, bir adet de *index.html* bulundurmaktadır.
 
-![createRepo](resim.png)
+![]images/(resim.png)
 
 
 ## Installation
