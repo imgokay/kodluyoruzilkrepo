@@ -2,7 +2,7 @@
 
 Bu dosya Kodluyoruz Eğitimi kapsamında yaptığım ilk repodur. Ödevin içerisinde bir adet *README* dosyası, bir adet de *index.html* bulundurmaktadır.
 
-![]images/(resim.png)
+![ ]images/(resim.png)
 
 
 ## Installation
